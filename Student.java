@@ -1,3 +1,6 @@
+/**
+ * Represents a student in the academic system.
+ */
 public class Student {
     private String name;
     private String studentId;
